@@ -10,3 +10,7 @@
 //					M
 //					C
 //============================================================================
+
+The executable is included in the repository. It can directly executed after cloning.
+For compiling: g++ -std=c++11 -O3 -o sumaData sumaData.cpp
+entrada.txt is taking by default. Modify it or add a new entrada.txt. Results will be shown in salida.txt
